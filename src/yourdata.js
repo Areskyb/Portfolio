@@ -47,7 +47,7 @@ export default {
       title: "Kanban Clone",
       service: "Simple Kanban Clone(Angular 8,Firestore,Auth)",
       imageSrc: kanban,
-      url: "https://github.com/Areskyb/Trello_angular_firebase",
+      url: "https://my-web-77082.firebaseapp.com/",
     },
     {
       id: 4, //DO NOT CHANGE THIS (Please)😅
