@@ -3,6 +3,7 @@ import bag from "./files/bag.png";
 import farm from "./files/farm.png";
 import kanban from "./files/kanban.png";
 import pi from "./files/1000pi.png";
+import machine from "./files/machine.png";
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
@@ -28,6 +29,15 @@ export default {
   projects: [
     {
       id: 1, //DO NOT CHANGE THIS (Please)😅
+      title: "Simple Neural Network implementation", //Project Title - Add Your Project Title Here
+      service: "Machine Learning showcase (React.js, Brain.js )", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc: machine,
+      //Project URL - Add Your Project Url Here
+      url: "https://areskyb.github.io/Machine_learning_brain/",
+    },
+    {
+      id: 2, //DO NOT CHANGE THIS (Please)😅
       title: "1000π", //Project Title - Add Your Project Title Here
       service: "Web Teaching Platform (React.js, Firebase)", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
@@ -36,21 +46,21 @@ export default {
       url: "https://pi-4a942.firebaseapp.com/",
     },
     {
-      id: 2, //DO NOT CHANGE THIS (Please)😅
+      id: 3, //DO NOT CHANGE THIS (Please)😅
       title: "Virtual Garden",
       service: "Web Game, HND Group Project (Vue.js, Java Spring)",
       imageSrc: farm,
       url: "https://github.com/Areskyb/Virtual_Garden_project",
     },
     {
-      id: 3, //DO NOT CHANGE THIS (Please)😅
+      id: 4, //DO NOT CHANGE THIS (Please)😅
       title: "Kanban Clone",
       service: "Simple Kanban Clone(Angular 8,Firestore,Auth)",
       imageSrc: kanban,
       url: "https://my-web-77082.firebaseapp.com/",
     },
     {
-      id: 4, //DO NOT CHANGE THIS (Please)😅
+      id: 5, //DO NOT CHANGE THIS (Please)😅
       title: "The Lazy Nomad",
       service: "First HND Solo project (Ruby)",
       imageSrc: bag,
