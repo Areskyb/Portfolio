@@ -21,7 +21,7 @@ export default {
   contactEmail: "areskyberkane@gmail.com",
   // Add Your About Text Here
   abouttext:
-    "After graduating with a Higher National Diploma in Software and working within a hospitality organisation for 2 years, I made the decision to pursue a career in Technology. This fascination with tech started long before my GCE in Science and,while considering my options in the hospitality sector, I realised Technology could provide me with so many more op  portunities to nutrure my growth mindset and a love for problem solving.",
+    "After graduating with a Higher National Diploma in Software and working within a hospitality organization for 2 years, I made the decision to pursue a career in Technology. This fascination with tech started long before my GCE in Science and, while considering my options in the hospitality sector, I realized Technology could provide me with so many more opportunities to nurture my growth mindset and a love for problem-solving.",
   aboutImage: profile,
   //Change This To Hide The Image of About Section (True Or False)
   ShowAboutImage: true, //true or false (Change Here)ß
