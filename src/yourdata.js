@@ -13,7 +13,7 @@ export default {
     //Line 1 For Header
     "Hello 👋  World! I am Aresky Berkane.",
     //Line 2 For Header
-    "Junior Software Engineer ",
+    "Software Engineer ",
     //Line 3 For Header
     "from Spain",
   ],
